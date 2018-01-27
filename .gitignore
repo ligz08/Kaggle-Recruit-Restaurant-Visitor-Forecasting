@@ -185,4 +185,5 @@ fabric.properties
 
 
 # Some input files are too large to upload to GitHub.
-input/*
+/scratch/full_engineered.pkl
+/input/hpg_reserve.csv
