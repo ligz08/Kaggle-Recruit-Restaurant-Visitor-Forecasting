@@ -1,6 +1,8 @@
 # Set Up an EC2 Instance
 - [ ] Launch EC2 on AWS
 
+Guide: https://machinelearningmastery.com/train-xgboost-models-cloud-amazon-web-services/
+
 # Environment & Packages
 ## Install Anaconda
 - [ ] install `Anaconda`
@@ -37,3 +39,5 @@ conda install matplotlib
 
 ## Install LightGBM
 - [ ] Install LGBM
+
+
