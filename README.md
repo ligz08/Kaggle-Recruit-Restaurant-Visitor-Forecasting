@@ -7,4 +7,6 @@ Overview page: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
 [Feature Engineering & Preprocessing](Feature_Engineering.ipynb)
 
-[Modeling](Modeling.ipynb)
+[XGBoost Tuning](XGBoost_Tuning.ipynb)
+
+[Ensemble Multiple XGBoost Models](Ensemble.ipynb)
